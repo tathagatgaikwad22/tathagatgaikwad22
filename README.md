@@ -3,7 +3,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 
-<p><i> I'm Tathagat recently i had completed Computer Engineering from Pune Vidyarthi Griha's College of Engineering, Nashik and I also Completed Diploma in Computer Engineering From Autonomous college Govt. Poly. Aurangabad. I'm a Tech Enthusiast, I love to explore and learn about new domains.</i></p>
+<p><i> I'm Tathagat, recently i had completed Computer Engineering from Pune Vidyarthi Griha's College of Engineering, Nashik and I also Completed Diploma in Computer Engineering From Autonomous college Govt. Poly. Aurangabad. I'm a Tech Enthusiast, I love to explore and learn about new domains.</i></p>
 <ul>
 
 <!-- <li> 💬 <b>I use</b>: <code>ASP.NET</code>, <code>JAVA</code>, <code>C#</code>, <code>C++</code>, <code>PHP-MySQL</code>, <code>HTML</code>, <code>Bootstrap</code></li> -->
