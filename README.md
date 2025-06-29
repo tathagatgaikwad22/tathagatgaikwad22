@@ -3,7 +3,30 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 
-<p><i> I'm Tathagat, recently i had completed Computer Engineering from Pune Vidyarthi Griha's College of Engineering, Nashik and I also Completed Diploma in Computer Engineering From Autonomous college Govt. Poly. Aurangabad. I'm a Tech Enthusiast, I love to explore and learn about new domains.</i></p>
+<p><i> 🌐 About Me
+I'm a Cloud & DevOps Engineer with a strong foundation in building, automating, and scaling infrastructure solutions across AWS, Azure, and GCP environments. I bring a unique blend of hands-on DevOps expertise and a growing passion for data engineering—driven by curiosity, continuous learning, and a mindset of innovation.
+
+With a proactive approach to automation, cloud-native development, and infrastructure as code, I help organizations deliver reliable, secure, and high-performing systems. I’m especially excited by roles that sit at the intersection of cloud engineering, data operations, and DevOps culture.
+
+🚀 Core Competencies:
+• Cloud Platforms: AWS, Azure, GCP – Skilled in provisioning, scaling, and optimizing cloud-native solutions.
+• DevOps & Automation: Jenkins, GitLab CI/CD, GitHub Actions – Spearheading streamlined deployment workflows and reducing time-to-production.
+• Infrastructure as Code: Terraform, CloudFormation – Enabling consistent, repeatable, and versioned infrastructure deployments.
+• Containers & Orchestration: Docker, Kubernetes – Enhancing portability and scaling of services across environments.
+• Monitoring & Observability: Prometheus, Grafana, ELK Stack – Ensuring system health and performance through intelligent monitoring.
+• Scripting & Configuration: Bash, Python, Ansible – Writing tools and automation scripts for improved developer productivity.
+
+📜 Certifications:
+• Architecting Solutions on AWS
+• Google IT Support Professional Certificate
+
+📈 What I'm Working Toward:
+• Expanding skills in data pipelines, cloud-based ETL tools, and big data ecosystems.
+• Bridging DevOps and DataOps to support high-scale, data-intensive applications.
+• Staying current with the latest in cloud services, IaC, DevSecOps.
+
+🤝 Let’s Connect
+If you're looking for a DevOps/cloud professional who’s deeply committed to building efficient, scalable, and secure infrastructure—and who’s always learning—feel free to reach out. I’m open to opportunities in DevOps, Cloud Engineering, and Data Engineering.</i></p>
 <ul>
 
 <!-- <li> 💬 <b>I use</b>: <code>ASP.NET</code>, <code>JAVA</code>, <code>C#</code>, <code>C++</code>, <code>PHP-MySQL</code>, <code>HTML</code>, <code>Bootstrap</code></li> -->
