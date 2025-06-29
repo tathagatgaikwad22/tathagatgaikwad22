@@ -3,7 +3,7 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
 
-<p><i> 🌐 About Me
+<p><i>
 I'm a Cloud & DevOps Engineer with a strong foundation in building, automating, and scaling infrastructure solutions across AWS, Azure, and GCP environments. I bring a unique blend of hands-on DevOps expertise and a growing passion for data engineering—driven by curiosity, continuous learning, and a mindset of innovation.
 
 With a proactive approach to automation, cloud-native development, and infrastructure as code, I help organizations deliver reliable, secure, and high-performing systems. I’m especially excited by roles that sit at the intersection of cloud engineering, data operations, and DevOps culture.
