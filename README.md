@@ -20,13 +20,8 @@ With a proactive approach to automation, cloud-native development, and infrastru
 • Architecting Solutions on AWS
 • Google IT Support Professional Certificate
 
-📈 What I'm Working Toward:
-• Expanding skills in data pipelines, cloud-based ETL tools, and big data ecosystems.
-• Bridging DevOps and DataOps to support high-scale, data-intensive applications.
-• Staying current with the latest in cloud services, IaC, DevSecOps.
-
 🤝 Let’s Connect
-If you're looking for a DevOps/cloud professional who’s deeply committed to building efficient, scalable, and secure infrastructure—and who’s always learning—feel free to reach out. I’m open to opportunities in DevOps, Cloud Engineering, and Data Engineering.</i></p>
+If you're looking for a DevOps/cloud professional who’s deeply committed to building efficient, scalable, and secure infrastructure—and who’s always learning—feel free to reach out. I’m open to opportunities in DevOps, Cloud Engineering, SRE and Data Engineering.</i></p>
 <ul>
 
 <!-- <li> 💬 <b>I use</b>: <code>ASP.NET</code>, <code>JAVA</code>, <code>C#</code>, <code>C++</code>, <code>PHP-MySQL</code>, <code>HTML</code>, <code>Bootstrap</code></li> -->
